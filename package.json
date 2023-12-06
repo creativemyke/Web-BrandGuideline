@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+    "color-name": "^2.0.0",
+    "color-namer": "^1.4.0"
   }
 }
