@@ -13,6 +13,7 @@ function getColorName(hex) {
 }
 
 // Example usage:
-const hexColor = "#3498db";
+const hexColor = "#70E4EF";
 const colorNameResult = getColorName(hexColor);
+console.log(colorNameResult);
 console.log(`The color name for ${hexColor} is: ${colorNameResult}`);

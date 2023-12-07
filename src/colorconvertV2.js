@@ -28,7 +28,7 @@ function hexToCMYKRGB(hex) {
 }
 
 // Example usage:
-const colorValues = hexToCMYKRGB("#3498db");
+const colorValues = hexToCMYKRGB("#70E4EF");
 console.log(colorValues.hex);
 console.log(colorValues.rgb);
 console.log(colorValues.cmyk);
